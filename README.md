@@ -14,8 +14,8 @@
 📌 **Áreas de Interesse:** Análise de dados, Business Intelligence, Finanças e Contabilidade  
 
 ## 📂 Projetos Recentes  
-🔹 [📊 Análise de Dados de E-commerce](https://github.com/seu-usuario/ecommerce-data-analysis)  
-🔹 [📈 Previsão de Vendas com Machine Learning](https://github.com/seu-usuario/previsao-vendas)  
+🔹 [📊 Análise de Dados de E-commerce](https://github.com/EduardoGermanoOliveira/EduardoGermanoOliveira/ecommerce-data-analysis)  
+  
 
 ## 📫 Entre em Contato  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-germano-de-oliveira-1461a0171/)  
