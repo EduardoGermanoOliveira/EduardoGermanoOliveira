@@ -14,8 +14,8 @@
 📌 **Áreas de Interesse:** Análise de dados, Business Intelligence, Finanças e Contabilidade  
 
 ## 📂 Projetos Recentes  
-🔹 [📊 Análise de Dados de E-commerce](https://github.com/EduardoGermanoOliveira/EduardoGermanoOliveira/ecommerce-data-analysis)  
-🔹 [📊 Choco Monitor]([https://github.com/choco-tech])  
+🔹 [📊 Análise de Dados de E-commerce](https://github.com/EduardoGermanoOliveira/ecommerce-data-analysis)  
+🔹 [📊 Choco Monitor](https://github.com/choco-tech) 
 
   
 
