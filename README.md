@@ -16,6 +16,8 @@
 ## 📂 Projetos Recentes  
 🔹 [📊 Análise de Dados de E-commerce](https://github.com/EduardoGermanoOliveira/ecommerce-data-analysis)  
 🔹 [📊 Choco Monitor](https://github.com/choco-tech) 
+🔹 [📊 Organizador de Arquivos](https://github.com/EduardoGermanoOliveira/organizador-de-arquivos) 
+
 
   
 
