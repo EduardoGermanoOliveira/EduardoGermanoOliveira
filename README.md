@@ -2,7 +2,7 @@
 
 📊 **Analista Fiscal | Cientista de Dados em Formação**  
 🎓 **Graduado em Big Data para Negócios | Estudante de Contabilidade**  
-📍 **Barueri, SP**  
+📍 **São Paulo, SP**  
 
 🚀 Apaixonado por análise de dados, machine learning e visualização de informações.  
 📈 Busco extrair insights valiosos para ajudar empresas a tomarem melhores decisões.  
